@@ -57,5 +57,6 @@ This project is open source and available under the MPL-2.0 license.
 
 👤 Author  
 
-Developed by saif
+Developed by Saif.
+
 If you find this tool useful, feel free to ⭐ the repo and contribute!
