@@ -2,7 +2,7 @@
 Interactive p5.js Kaleidoscope
 A mesmerizing and interactive digital kaleidoscope created with p5.js. This project generates beautiful, symmetrical patterns that respond in real-time to your mouse movements, creating a unique visual experience with every interaction.
 
-(Feel free to replace this placeholder with a GIF of your kaleidoscope!)
+
 
 ✨ Features
 Symmetrical Drawing: Automatically mirrors and rotates your drawings to create complex, kaleidoscopic patterns.
@@ -45,3 +45,10 @@ Drawing Tools: Instead of drawing a line(), try using other p5.js drawing functi
 p5.js - A JavaScript library for creative coding.
 
 HTML5 & CSS3
+
+📄 License
+This project is open source and available under the MIT License.
+
+👤 Author
+Developed by saif
+If you find this tool useful, feel free to ⭐ the repo and contribute!
