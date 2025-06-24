@@ -59,4 +59,4 @@ This project is open source and available under the MPL-2.0 license.
 
 Developed by Saif.
 
-If you find this tool useful, feel free to ⭐ the repo and contribute!
+If you find this tool useful, feel free contribute to the repo!
