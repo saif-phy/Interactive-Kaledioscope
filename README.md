@@ -20,7 +20,7 @@ Simple & Clean: Press any key to clear the canvas and start a new masterpiece.
 🚀 How to Use
 Using the kaleidoscope is simple and intuitive:
 
-Open index.html in your web browser.
+Open Kaledioscope.html in your web browser.
 
 Move your mouse across the canvas to begin drawing.
 
