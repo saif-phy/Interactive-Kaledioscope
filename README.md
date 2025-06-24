@@ -33,6 +33,7 @@ Press any key on your keyboard to clear the screen and start fresh.
 ![screenshot_kali.png](https://github.com/saif-phy/Interactive-Kaledioscope/blob/112c2db0f35b031da81dc117f43f540bf3b8ca83/screenshot_kali.png)
 
 🔧 Customization
+
 This project is built to be easily customized. Open the script tag in the index.html file and try changing these values:
 
 symmetry: This constant on line 35 controls the number of reflective segments. The default is 6, but try 4, 8, 12, or any other number to see how it dramatically changes the patterns!
@@ -41,14 +42,17 @@ Color Logic: Modify the stroke() function call inside draw() to experiment with 
 
 Drawing Tools: Instead of drawing a line(), try using other p5.js drawing functions like circle(), rect(), or even custom shapes with beginShape() and vertex().
 
-🛠️ Built With
+🛠️ Built With  
+
 p5.js - A JavaScript library for creative coding.
 
 HTML5 & CSS3
 
-📄 License
+📄 License  
+
 This project is open source and available under the MPL-2.0 license.
 
-👤 Author
+👤 Author  
+
 Developed by saif
 If you find this tool useful, feel free to ⭐ the repo and contribute!
