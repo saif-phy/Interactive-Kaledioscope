@@ -28,6 +28,10 @@ Press and hold the mouse button to make the lines thicker and more dramatic.
 
 Press any key on your keyboard to clear the screen and start fresh.
 
+📷 Screenshot
+
+![screenshot_kali.png](https://github.com/saif-phy/Interactive-Kaledioscope/blob/112c2db0f35b031da81dc117f43f540bf3b8ca83/screenshot_kali.png)
+
 🔧 Customization
 This project is built to be easily customized. Open the script tag in the index.html file and try changing these values:
 
