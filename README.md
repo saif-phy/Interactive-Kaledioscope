@@ -5,6 +5,7 @@ A mesmerizing and interactive digital kaleidoscope created with p5.js. This proj
 
 
 ✨ Features
+
 Symmetrical Drawing: Automatically mirrors and rotates your drawings to create complex, kaleidoscopic patterns.
 
 Interactive Mouse Controls: The pattern is drawn based on the position and speed of your mouse.
@@ -18,6 +19,7 @@ Responsive Canvas: The kaleidoscope automatically resizes to fit the full browse
 Simple & Clean: Press any key to clear the canvas and start a new masterpiece.
 
 🚀 How to Use
+
 Using the kaleidoscope is simple and intuitive:
 
 Open Kaledioscope.html in your web browser.
@@ -29,6 +31,7 @@ Press and hold the mouse button to make the lines thicker and more dramatic.
 Press any key on your keyboard to clear the screen and start fresh.
 
 📷 Screenshot
+
 
 ![screenshot_kali.png](https://github.com/saif-phy/Interactive-Kaledioscope/blob/112c2db0f35b031da81dc117f43f540bf3b8ca83/screenshot_kali.png)
 
