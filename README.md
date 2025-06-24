@@ -47,7 +47,7 @@ p5.js - A JavaScript library for creative coding.
 HTML5 & CSS3
 
 📄 License
-This project is open source and available under the MIT License.
+This project is open source and available under the MPL-2.0 license.
 
 👤 Author
 Developed by saif
