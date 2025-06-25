@@ -1,7 +1,7 @@
-# Interactive-Kaledioscope
+# Interactive-Kaleidoscope
 
 
-A mesmerizing and interactive digital kaleidoscope created with p5.js. This project generates beautiful, symmetrical patterns that respond in real-time to your mouse movements, creating a unique visual experience with every interaction.
+A mesmerizing and interactive digital Kaleidoscope created with p5.js. This project generates beautiful, symmetrical patterns that respond in real-time to your mouse movements, creating a unique visual experience with every interaction.
 
 
 
@@ -23,9 +23,9 @@ Simple & Clean: Press any key to clear the canvas and start a new masterpiece.
 
 Using the kaleidoscope is simple and intuitive: 
 
-> Download the Kaledioscope_xxxxxx.html (xxxxxx=version release date)
+> Download the Kaleidoscope_xxxxxx.html (xxxxxx=version release date)
 
-> Open Kaledioscope_xxxxxx.html in your web browser
+> Open Kaleidoscope_xxxxxx.html in your web browser
 
 > Move your mouse across the canvas to begin drawing
 
