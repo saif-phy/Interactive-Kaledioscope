@@ -1,5 +1,6 @@
 # Interactive-Kaledioscope
-Interactive Kaleidoscope based on  p5.js 
+
+
 A mesmerizing and interactive digital kaleidoscope created with p5.js. This project generates beautiful, symmetrical patterns that respond in real-time to your mouse movements, creating a unique visual experience with every interaction.
 
 
