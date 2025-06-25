@@ -23,10 +23,9 @@ Simple & Clean: Press any key to clear the canvas and start a new masterpiece.
 
 Using the kaleidoscope is simple and intuitive: 
 
-> Download the Kaleidoscope_xxxxxx.html (xxxxxx=version release date)
+> Download the kaledioscope_xxxxxx.html (xxxxxx=version release date)
 
-> Open Kaleidoscope_xxxxxx.html in your web browser
-
+> Open kaledioscope_xxxxxx.html in your web browser
 > Move your mouse across the canvas to begin drawing
 
 > You can press and hold the mouse button to make the lines thicker and more dramatic
